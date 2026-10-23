@@ -28,9 +28,13 @@ Design Features
 	•	Alarm and event signal connections
 PCB Design
 Schematic
-Insert schematic image here.
+
+![I2C EEPROM and sensor board schematic](https://github.com/user-attachments/assets/aa6d401c-8414-43bf-8edb-5e6dceda3062)
+
 PCB Layout
-Insert PCB layout image here.
+
+![KiCad 3D view of the I2C EEPROM and sensor board](https://github.com/user-attachments/assets/113f5f17-e94b-47ab-8695-3d4f854cb64f)
+
 Design Tools
 	•	KiCad — Schematic Capture
 	•	KiCad PCB Editor — PCB Layout and Routing
@@ -38,3 +42,4 @@ Project Status
 PCB schematic and layout completed. Physical manufacturing and hardware validation have not been documented.
 Note
 This repository contains a personally recreated PCB design intended for educational and portfolio purposes.
+
